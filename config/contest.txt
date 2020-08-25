@@ -1,0 +1,2 @@
+# horário de início da competição [$ date --date="15:00:00 today" +%s]
+1573318800

@@ -1,0 +1,60 @@
+teambrbr01ufpaGreedy d+UFPAUniversidade Federal do ParáDiego FigueiredoFeelssFelipe CardosoRockettJeremias AbreuJereGodEuripedes Santos0000009
+teambrbr02uece(++sucesso)++;UECEUniversidade Estadual do CearáLevy Gurgel ChavesDancingMadmanMatheus Monteiro SilveiraMatheus.MonteiroPedro Henrique Oliveira SousapedrohRafael Gomes01001114
+teambrbr03unioesteOps, !(Solução Trivial)UNIOESTEUniversidade Estadual do Oeste do Paraná - CascavelLuis Fernando Trivelattoluis.trivelattoBrendo Peres BizettoMarcelo Henrique BittencourtBittencourtMHJosué Pereira de Castro00000111
+teambrbr04ufmgRábalabaxúriasUFMGUniversidade Federal de Minas GeraisRafael Grandsire Oliveirarafaelgo2Pedro Papa PaniagoPaniagoBruno MonteirobmmDilson Guimarães03003516
+teambrbr05ifJarbasIFNMG-Campus MonteInstituto Federal Do Norte de Minas Gerais - Montes ClarosGabriel FerreiraVinicius SouzaMattheus MazzillioAlberto Alexandre Assis Miranda0000004
+teambrbr06unicampOBIixosUNICAMPUniversidade Estadual de CampinasMatheus Leal VianaMatheusLealVTiago SouzatdasYan GuimarãesGenezioFábio Luiz Usberti0123891316
+teambrbr07ufrpeTrês mosqueteirosUFRPEUniversidade Federal Rural de PernambucoMatheus DemiroMatheus FélixLucas VieiraCleviton Monteiro0000001
+teambrbr08estacioCodemonsCUEdACentro Universitário Estácio da AmazôniaGuilherme SaraivaWellington SouzaElson JúniorJonas Mendonça0000001
+teambrbr09inatelIrionTroop3rsINATELInstituto Nacional de TelecomunicaçõesMaycon AlvesAdson SantosGustavo PolicarpoLuciano Ribeiro0000006
+teambrbr10unifeiFalácias e CaríciasUNIFEIUniversidade Federal de Itajubá - ItajubáDavid BatistaTarik Vieira MouallemTarik_mouallemJosé Silva NetoJoselsnetoRoberto Affonso Costa Junior01001012
+teambrbr11ufcDisqualifiedUFC-QuixadáUniversidade Federal do Ceará - QuixadáClaro Henrique Silva Salesclaro_henriqueMichael Douglas NóbregaDougNobregaPaulo Miranda e Silva Sousapaulomiranda98Wladimir Araújo Tavares0000002
+teambrbr12ufgLeandro in the JungleUFGUniversidade Federal de GoiásJoão Batista Oliveira NettojoaonettoGustavo LealgustavolealLeandro Alves ViannaleandrovHumberto Longo00000212
+teambrbr13ufuEGOUFU-Monte Carmelo/SIUniversidade Federal de Uberlândia - Monte CarmeloEmmanuel ReisGuilherme SuzukiOtávio Soares RibeiroMirella Junqueira0000004
+teambrbr14unbRock Lee do Pagode Namora D+UnBUniversidade de BrasíliaLuís Felipe Braga Gebrim SilvaLiusJosé Marcos da Silva LeiteNsonThiago Veras MachadoVerasGuilherme Ramos01013212
+teambrbr15ufamTuturu sem O(1)IComp/UFAMUniversidade Federal do AmazonasLucas Castro de Souzalcs147Lucas Rocha dos SantoslaronFelipe Pereira FrancofelipovyskRosiane de FreitasR0000009
+teambrbr16ufbaJuntos & Shell | NowUFBAUniversidade Federal da BahiaBernardo Salmeronbfs.07Christian ElsterchriselsterVinicius Teixeira HirschleviniciusthtRubisley Lemes0201108
+teambrbr17unifacefC + ou -UNIFACEFCentro Universitario Municipal de FrancaHelil BergáriaGabriel Henrique Leal GarciaRenato TelesDaniel Pires0000001
+teambrbr18itaPappy van PoodleITAInstituto Tecnológico de AeronauticaFelipe GuimarãesGuimaHohlLucas Jorgelightning_shandianGuilherme OliveiradukileeArmando Gouveia39385616
+teambrbr19ufopaProjeto BetaUFOPAUniversidade Federal do Oeste do ParáFrancisco NunesEllen Cristina OliveiraCarlos SouzaFlavia Monteiro0000001
+teambrbr20uspTime com TUSPUniversidade de São PauloArthur Nascimentoarthur.nascimentoGiovanna ConradokobusCezar GuimarãesnonsequiturNathan Benedetto Proença31531481116
+teambrbr21uspTriple GUSP-São CarlosUniversidade de São Paulo - São CarlosGuilherme TubonetuboneGustavo SoaresgsoaresGabriel Pinto de CamargoGabrielCamargoSamuel Santos05243016
+teambrbr22ufmsSupimpa do balacobacoFACOM-UFMSUniversidade Federal de Mato Grosso do SulMatheus OliveiraLuiz Henrique SantosFelipe SilvaAnderson Araujo00000013
+teambrbr23ufcgif avx !UFCGUniversidade Federal de Campina GrandeGustavo Bezerra RibeirogugabribeiroJoão Marcos Lima MedeirosjoaomArthur Vinícius Tomé RodriguesarthurCFRohit Gheyi17042415
+teambrbr24ifAntenas ParanoicasIFPB-João PessoaInstituto Federal da Paraíba - João PessoaCalebe Oliveira de FigueirêdoMateus MeloVictor Herbert Ferreira de SousaThiago Gouveia da Silva0000005
+teambrbr25unespColecionadores de BalõesUNESP-BauruUniversidade Estadual Paulista - BauruGiulia Moura CruscoPedro PaiolaJoão CominiWilson Yonezawa0000005
+teambrbr26unbCaminhoneiros do CerradoUnB/FGAUniversidade de Brasília - GamaGustavo Marquesgustavolima00Joao Carvalhojps12Renato BrittoRenatoBAEdson Junior0000004
+teambrbr27pucgoSerjão Matador de BugPUC-GoiásPontifícia Universidade Católica de GoiásEzequiel Rodrigues da SilvaJorge SantosGuilherme LondeAlexandre Ribeiro0000003
+teambrbr28facensEnigmaFACENSFaculdade de Engenharia de SorocabaEmanuel HuberFabricio Torquato LeiteLucas DutraAndre Breda Carneiro0000003
+teambrbr29unicampCampinas GrandeUNICAMPUniversidade Estadual de CampinasArthur Pratti DadaltoarthurpdRodrigo Amaral FranceschinelliRodrigoaf61Augusto Damschi Bernardiguto2568Fábio Luiz Usberti0123891316
+teambrbr30ufrgs[nome_do_timeUFRGSUniversidade Federal do Rio Grande do SulJoão Pedro Gonçalves MoreiraRafael AudibertMatheus KovaleskiRodrigo Machado00003316
+teambrbr31unifacisaVai_na.sort()UnifacisaCentro Universitário UnifacisaHiago Marques de MedeirosMatheus Rodrigues SousaJames Marcos Veloso NetoJemerson Damasio0000001
+teambrbr32uftmMatilhaUFTMUniversidade Federal do Triângulo MineiroLucas FerreiraPedro SantosArthur LopesLeandro Cruvinel0000001
+teambrbr33ufpeExperts com sonoUFPEUniversidade Federal de PernambucoJosé Victor Silva CruzjosecruzGabriel MendesMendezzVinícius SerraSerradorNivan Ferreira1149158615
+teambrbr34ufgDelicinhas do CerradoUFGUniversidade Federal de GoiásPaulo Augusto Gomes KatakikatakiRafael de Castro SilvarafaelcsMisael MoraesmisaelHumberto Longo00000212
+teambrbr35cefetmgO(f*ck)CEFET-MG-C2Centro Federal de Educação Tecnológica de Minas Gerais - Campus 2Lucas SantoslmariozaNicholas CristofaronickCristSilvia FonsecasilviafonSandro Renato Dias0000004
+teambrbr36uffsHu3++OnTheEdgeOfOblivionUFFSUniversidade Federal da Fronteira SulRuan Natan Guerra PatoMarcos Theophilo Gobbi AdamczukDaniel Mello KonflanzEmilio Wuerges0000007
+teambrbr37ufprYouShallNot.cppUFPRUniversidade Federal do ParanáJedian BrambillaHallBarkisLeonardo Strozzileo.strozzi98Bruno TisseiBrunoTisseiAndré Guedes03011211
+teambrbr38udescS4D B0YZUDESCUniversidade do Estado de Santa CatarinaAdilson Luis Jonck JuniorjnkFelipe MarchiMarkhyzFelipe Weiss_WeissKarina Roggia00000011
+teambrbr39uspum minuto para o fim do coffeeUSP-São CarlosUniversidade de São Paulo - São CarlosRaphael Medeirosrmedeiros23Andre FakhouryfakhouryFrederico RibeirofredbrSamuel Santos05243016
+teambrbr40uemRATAT010SUEMUniversidade Estadual de MaringáAlan Lopes de Sousa FreitasAlex NoceMateus OsmarinDaniel Kikuti0000003
+teambrbr41ufscarBoraCodarCarambaUFSCarUniversidade Federal de Sao CarlosGabriel MachadoLucas FracassoGuilherme GodoyGabriel Malaquias00000010
+teambrbr42fatecRENEGADESFATEC-SorocabaFaculdade de Tecnologia de SorocabaRafael Henrique Pacheco de SouzaGuilherme Igor Alves SernajotoGabriel Giovani FelicidadeAntonio Cesar Barros Munari0000003
+teambrbr43ifCompleta RachaIFCE-TianguáInstituto Federal do Ceará - TianguáGabriel ArrudaJoão IpolitoMarcelo Meneses de LimaDavid Rodrigues0000001
+teambrbr44ufcgTrio Moranguinhonho :3UFCGUniversidade Federal de Campina GrandeMatheus Oliveira PereiraMatheusOPGabriel TavaresPigmeuGabriel Felipe GomesSlow_Doritos_TransformRohit Gheyi17042415
+teambrbr45imeCadê o meu coach?IMEInstituto Militar de EngenhariaArnon Mello BarbosaArnonCaio RochaciaocbrHenrique NavarrohsnavarroClaudia Justel14012412
+teambrbr46ufpiTrês caras numa motoUFPIUniversidade Federal do PiauíCarlos Eduardo BastoseduardocesbJoão Pedro PatrocínioGabriel AraújoRosianni Cruz00000011
+teambrbr47uesbUrsos sem CursoUESBUniversidade Estadual do Sudoeste da BahiaIgor SilvaigorqsJoão AndreottijoaoandreottiGabriel Amaral SousaCátia Khouri0000007
+teambrbr48ufabcbuiatchakaUFABCUniversidade Federal do ABCBryan ValerianoBryanValerianoWesley Pereira da Silvawxn_Jonatas Duarte Souzajonatas57Cristiane Sato0000002
+teambrbr49ufesman javaUFESUniversidade Federal do Espirito SantoFranco Schmidt RossiSchF_Gilmarllen Pereira MiottogilmarllenLorenzo Guimarães Moulinhidrogenio3Maria Claudia Silva Boeres01001011
+teambrbr50ufrnGadod++UFRNUniversidade Federal do Rio Grande do NorteJoão Bezerramarcospb19Paulo Augusto de Lima MedeirospauloamedAndré Skeetebotamais1aiRafael Beserra Gomes02013413
+teambrbr51ufvFor-De-FluxoDPI-UFVUniversidade Federal de ViçosaRóger Vieira BatistaBruno Ferreira CoelhoRodrigo Eduardo de Oliveira Bauer ChichorroSalles Magalhães00001112
+teambrbr52unoesteGryffindorUNOESTEUniversidade do Oeste PaulistaEddy Augusto SantosHeitor Payão BittencourtEvandro JuniorFrancisco Virginio Maracci0000009
+teambrbr53upfPress 0xF to pay respectsUPFUniversidade de Passo FundoRicardo FachinelloricardomfAdrian CerbarocerbaroFelipe FoschieraFelipeFMarcelo Trindade Rebonatto0000005
+teambrbr54ufpeAmigos do BetoUFPEUniversidade Federal de PernambucoGabriel PessoaGabrielPessoaBezaliel SilvabezaClodes SilvaffernNivan Ferreira1149158615
+teambrbr55uninoveUndefin@dUNINOVEUniversidade Nove de JulhoJoao Henrique DamazioMatheus PereiraGuilherme RodriguesDaniel Ferreira de Barros Junior0000002
+teambrbr56ufuClube das WinxUFUUniversidade Federal de UberlândiaLucas DamasolucaasdamasoGustavo NunesSashaGreyGustavo Gardusigustavo.gardusiLuiz Cláudio Theodoro00000112
+teambrbr57fatecJumentusFatec OurinhosFaculdade de Tecnologia de OurinhosGuilherme Antonio Garcia MoreiraAndré Oliveira MendesFlaviano Gabriel Jesus da CruzAlex Marino Gonçalves de Almeida0000001
+teambrbr58pucrjCensurados pelo CrivellaPUC-RJPontificia Universidade Catolica do Rio de JaneiroLucas PavanelliGunnalarFrancisco Geiman ThiesenFThiesenHandel Scholze MarquesValhallaHeroMarcus Poggi15252513
+teambrbr59ufalTNTUFALUniversidade Federal de AlagoasThiago José Silva SantostjssNelson Gomes NetoNelsonGomesNetoTiago MarinhoSystaRodrigo Paes0000003
+teambrbr60ufsCaranguejo MisteriosoUFSUniversidade Federal de SergipeCarlos Vinícios Ferreira SantoscarlosvfsJoão Vitor VianaJuvitusLucas Lopes de SouzalclpsozBeatriz Trinchão Andrade01010115

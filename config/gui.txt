@@ -1,0 +1,10 @@
+# precedência dos atributos a serem utilizados no placar; seguida por
+# placares disponíveis, com número de medalhas de ouro, prata e bronze por placar
+state;country
+country;br;3;3;4;BRASIL
+type;oficial;0;0;0;PLACAR GERAL
+region;ne;1;0;0;NORDESTE
+region;n;1;0;0;NORTE
+region;co;1;0;0;CENTRO-OESTE
+region;se;1;0;0;SUDESTE
+region;s;1;0;0;SUL

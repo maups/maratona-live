@@ -1,0 +1,5 @@
+/dev/video0 WEBCAM0
+/dev/video2 WEBCAM2
+/dev/video4 WEBCAM4
+rtsp://admin:JZNPQP@192.168.78.228:554/live IPCAM0
+rtsp://10.42.0.223:5000/screen TABLET
