@@ -7,7 +7,7 @@ This code was used in the Brazilian Finals 2019. The results can be seen in any 
 - [YouTube](https://www.youtube.com/watch?v=qihNV2GGXig)
 - [Facebook](https://www.facebook.com/maratona/videos/961219877568283/)
 
-Streaming was carried out using [OBS Studio](https://obsproject.com/) to boradcast the scoreboard window. The straming was broadcasted to YouTbe, Facebook and Twitch via [Restream](https://restream.io/). Scoreboard information is automatically obtained from [BOCA](https://www.ime.usp.br/~cassio/boca/).
+Streaming was carried out using [OBS Studio](https://obsproject.com/) to broadcast the scoreboard window. The streaming was broadcasted to YouTbe, Facebook and Twitch via [Restream](https://restream.io/). Scoreboard information is automatically obtained from [BOCA](https://www.ime.usp.br/~cassio/boca/).
 
 ## Author
 
