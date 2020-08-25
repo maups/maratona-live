@@ -9,6 +9,10 @@ This code was used in the Brazilian Finals 2019. The results can be seen in any 
 
 Streaming was carried out using [OBS Studio](https://obsproject.com/) to boradcast the scoreboard window. The straming was broadcasted to YouTbe, Facebook and Twitch via [Restream](https://restream.io/). Scoreboard information is automatically obtained from [BOCA](https://www.ime.usp.br/~cassio/boca/).
 
+## Author
+
+- Mauricio Pamplona Segundo
+
 ## Compiling and running
 
 Install prerequisites:
