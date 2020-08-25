@@ -47,7 +47,7 @@ How to configure it for your own contest:
 
 - The file *'maratona-live/config/attributes.txt'* specifies team attributes for all teams. The first attribute must always be *'username'* and the values must match the team usernames on BOCA. Use the value 'none' when a team does not have a value for an attribute, but all teams must have a valid username.
 
-- The file *'maratona-live/config/gui.txt'* specifies which attributes are going to be used as the source of icons and which attributes are going to be used for filtered scoreboards. For each attribute used as a source of icons, create a folder on *'maratona-live/assets/'* with the attribute name and create one png file per attribute value. For each filtered scoreboard, pick on attribute and the attribute value and specify the number of gold, silver and bronze medals for that specific screboard.
+- The file *'maratona-live/config/gui.txt'* specifies which attributes are going to be used as the source of icons and which attributes are going to be used for filtered scoreboards. For each attribute used as a source of icons, create a folder on *'maratona-live/assets/'* with the attribute name and create one png file per attribute value. For each filtered scoreboard, pick one attribute and one attribute value and specify the number of gold, silver and bronze medals for that specific screboard.
 
 Check the files in this repository to get a better idea of their format.
 
